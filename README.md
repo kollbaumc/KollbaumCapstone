@@ -11,15 +11,15 @@ This project was created to run different machine learning regression algorithms
 +   Data types were determined
 +   Data was cleaned.
     + Unwanted attributes were dropped
-#####        2.  Categorical variables were changed to integers.
-#####        3.  Data was checked for duplicates and null values.
-####    d.  Shapes of data attributes were observed.
-####    e.  Data attributes were checked for relationships.
+    + Categorical variables were changed to integers.
+    + Data was checked for duplicates and null values.
++   Shapes of data attributes were observed.
++   Data attributes were checked for relationships.
 ### 4. Machine learning algorithms were run on the data.
-####    a.  Pipelines were created using four different regression algorithms.
-####    b.  Data was split into 80/20 train/test split
-####    c.  Data was fit.  
-####    d.  Different algorithms were judged on the accuracy of their prediction and their mean absolute errors.
++   Pipelines were created using four different regression algorithms.
++   Data was split into 80/20 train/test split
++   Data was fit.  
++   Different algorithms were judged on the accuracy of their prediction and their mean absolute errors.
 ### 5.  Conclusions were made about which model performed best making predictions.
 ### 6.  Visualizations were created to better illustrate our results.  
 
