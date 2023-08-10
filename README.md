@@ -10,6 +10,7 @@ This project was created to run different machine learning regression algorithms
 +   Data attributes were observed
 +   Data types were determined
 +   Data was cleaned.
+    + Attributes seperated into columns in excel       
     + Unwanted attributes were dropped
     + Categorical variables were changed to integers.
     + Data was checked for duplicates and null values.
