@@ -1,7 +1,7 @@
 # KollbaumCapstone
 ## Project Focus
 
-This project was created to run different machine learning regression algorithms on a set of data containing 395 students.  The data includes their responses to a survey, measures of different environmental factors on the students, and their performance in their mathematics course.  
+This project was created to run different machine learning regression algorithms on a set of data containing 395 students.  The data includes their responses to a survey, measures of different environmental factors on the students, and their performance in their mathematics course.  The main part of the project is contained in modelbuilding3.  Other model building and data cleaning experimentations are contained in the other files.  My charts and graphs were created in the visualization file.  
 
 ## Steps in the Project
 ### 1.  A goal was studied and determined.
