@@ -5,9 +5,9 @@ This project was created to run different machine learning regression algorithms
 
 ## Steps in the Project
 ### 1.  A goal was studied and determined.
-2.  An appropriate data set was selected.
-3.  Exploratory data analysis was performed.
-    a. Data attributes were observed
+### 2.  An appropriate data set was selected.
+### 3.  Exploratory data analysis was performed.
+####    a. Data attributes were observed
     b. Data types were determined
     c. Data was cleaned.
         1.  Unwanted attributes were dropped
