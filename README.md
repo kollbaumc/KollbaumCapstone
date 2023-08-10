@@ -7,10 +7,10 @@ This project was created to run different machine learning regression algorithms
 ### 1.  A goal was studied and determined.
 ### 2.  An appropriate data set was selected.
 ### 3.  Exploratory data analysis was performed.
-+  a. Data attributes were observed
-####    b. Data types were determined
-####    c. Data was cleaned.
-#####        1.  Unwanted attributes were dropped
++   Data attributes were observed
++   Data types were determined
++   Data was cleaned.
+*          Unwanted attributes were dropped
 #####        2.  Categorical variables were changed to integers.
 #####        3.  Data was checked for duplicates and null values.
 ####    d.  Shapes of data attributes were observed.
