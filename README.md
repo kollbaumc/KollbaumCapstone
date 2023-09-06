@@ -6,6 +6,7 @@ This project was created to run different machine learning regression algorithms
 ## Steps in the Project
 ### 1.  A goal was studied and determined.
 ### 2.  An appropriate data set was selected.
++   UC Irvine Machine Learning Repository
 ### 3.  Exploratory data analysis was performed.
 +   Data attributes were observed
 +   Data types were determined
