@@ -19,6 +19,7 @@ This project was created to run different machine learning regression algorithms
 +   Data attributes were checked for relationships.
 ### 4. Machine learning algorithms were run on the data.
 +   Pipelines were created using four different regression algorithms.
+    + Linearn Regression, Lasso Regression, Random Forest, Neural Net
 +   Data was split into 80/20 train/test split
 +   Data was fit.  
 +   Different algorithms were judged on the accuracy of their prediction and their mean absolute errors.
