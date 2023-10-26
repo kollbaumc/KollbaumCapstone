@@ -24,6 +24,7 @@ This project was created to run different machine learning regression algorithms
 +   Data was fit.  
 +   Different algorithms were judged on the accuracy of their prediction and their mean absolute errors.
 ### 5.  Conclusions were made about which model performed best making predictions.
++   Random Forest performed the best on the data.  
 ### 6.  Visualizations were created to better illustrate our results.  
 
 
